@@ -1,6 +1,6 @@
 # 👋 Hi, I'm ManojKumar MohanKumar
 
-**AI Engineer | Data Engineer | XAI Researcher**  
+**AI Engineer | Robotics | XAI Researcher**  
 📍 Pforzheim, Baden-Württemberg, Germany  
 🎓 M.Sc. Artificial Intelligence for Smart Sensors and Actuators — Deggendorf Institute of Technology  
 
@@ -12,9 +12,9 @@
 
 ## 🧠 About Me
 
-I'm a graduate AI Engineer with hands-on experience in **Explainable AI (XAI)**, **network intrusion detection**, and **data engineering pipelines**. My Master's thesis focused on evaluating XAI methods (SHAP, LIME, Integrated Gradients, LRP) for unsupervised anomaly detection in network security — bridging the gap between black-box ML models and real-world interpretability.
+I'm a graduate AI Engineer with hands-on experience in **Explainable AI (XAI)**, **Robotics** and **Computer vision**. My Master's thesis focused on evaluating XAI methods (SHAP, LIME, Integrated Gradients, LRP) for unsupervised anomaly detection in sensor data — bridging the gap between black-box ML models and real-world interpretability.
 
-I'm passionate about building intelligent, trustworthy systems at the intersection of machine learning, cybersecurity, and IoT. Currently seeking junior **Data Engineering** or **AI/ML Engineering** roles in Germany.
+I'm passionate about building intelligent, trustworthy systems at the intersection of machine learning, Robotics, and IoT. Currently seeking junior  **AI/ML Engineering** roles in Germany.
 
 ---
 
