@@ -21,7 +21,7 @@ I'm passionate about building intelligent, trustworthy systems at the intersecti
 
 ## 🚀 Featured Projects
 
-### 🔍 Explainable AI for unsupervised ANomaly detection *(Master's Thesis)*
+### 🔍 Explainable AI for unsupervised Anomaly detection *(Master's Thesis)*
 > Evaluating XAI methods for unsupervised anomaly detection in sensor data
 
 - Designed and trained **Autoencoder-based anomaly detection** models in PyTorch and TensorFlow
