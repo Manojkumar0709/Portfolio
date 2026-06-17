@@ -1,6 +1,6 @@
 # 👋 Hi, I'm ManojKumar MohanKumar
 
-**AI Engineer | Data Engineer | XAI Researcher**  
+**AI Engineer | Robotics | XAI Researcher**  
 📍 Pforzheim, Baden-Württemberg, Germany  
 🎓 M.Sc. Artificial Intelligence for Smart Sensors and Actuators — Deggendorf Institute of Technology  
 
@@ -13,21 +13,21 @@
 
 ## 🧠 About Me
 
-I'm a graduate AI Engineer with hands-on experience in **Explainable AI (XAI)**, **network intrusion detection**, and **data engineering pipelines**. My Master's thesis focused on evaluating XAI methods (SHAP, LIME, Integrated Gradients, LRP) for unsupervised anomaly detection in network security — bridging the gap between black-box ML models and real-world interpretability.
+I'm a graduate AI Engineer with hands-on experience in **Explainable AI (XAI)**, **Robotics**, and **Machine Learning**. My Master's thesis focused on evaluating XAI methods (SHAP, LIME, Integrated Gradients, LRP) for unsupervised anomaly detection in sensor data which bridging the gap between black-box ML models and real-world interpretability.
 
-I'm passionate about building intelligent, trustworthy systems at the intersection of machine learning, cybersecurity, and IoT. Currently seeking junior **Data Engineering** or **AI/ML Engineering** roles in Germany.
+I'm passionate about building intelligent, trustworthy systems at the intersection of machine learning, cybersecurity, and IoT. Currently seeking junior **Robotics** or **AI/ML Engineering** roles in Germany.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔍 Explainable AI for Network Intrusion Detection *(Master's Thesis)*
-> Evaluating XAI methods for unsupervised anomaly detection in network traffic data
+### 🔍 Explainable AI for unsupervised ANomaly detection *(Master's Thesis)*
+> Evaluating XAI methods for unsupervised anomaly detection in sensor data
 
 - Designed and trained **Autoencoder-based anomaly detection** models in PyTorch and TensorFlow
-- Applied and benchmarked **SHAP, LIME, Integrated Gradients, and LRP** on network intrusion datasets (e.g., CICIDS)
-- Quantified explanation fidelity and stability across XAI methods for security-critical decisions
-- **Tech Stack:** Python, PyTorch, TensorFlow, SHAP, LIME, Captum, scikit-learn, Jupyter Notebooks
+- Applied and benchmarked **SHAP, LIME, Integrated Gradients, and LRP** on dataset
+- Quantified explanation fidelity, sparsity and stability across XAI methods for security-critical decisions
+- **Tech Stack:** Python, PyTorch, TensorFlow, SHAP, LIME, Captum, scikit-learn, Jupyter Notebooks,
 
 ---
 
@@ -38,7 +38,7 @@ I'm passionate about building intelligent, trustworthy systems at the intersecti
 - Fine-tuned pretrained models on custom datasets using transfer learning techniques
 - Built an inference pipeline with live camera feed support and bounding box visualization
 - Evaluated model performance using mAP, precision, recall metrics across object classes
-- **Tech Stack:** Python, YOLOv8 (Ultralytics), OpenCV, PyTorch, NumPy, Matplotlib
+- **Tech Stack:** Python, YOLOv8 (Ultralytics), OpenCV, PyTorch, NumPy, Matplotlib, Raspberry pi
 
 ---
 
@@ -96,7 +96,7 @@ I'm passionate about building intelligent, trustworthy systems at the intersecti
 ### Data Engineering
 | Area | Tools |
 |---|---|
-| Languages | Python, SQL, R, C++ |
+| Languages | Python, SQL, C++ |
 | Databases | PostgreSQL, SQLite |
 | Data Processing | pandas, NumPy |
 | Visualization | Plotly, Matplotlib, Seaborn, Streamlit |
@@ -113,7 +113,7 @@ I'm passionate about building intelligent, trustworthy systems at the intersecti
 |---|---|
 | Version Control | Git, GitHub, GitLab |
 | Environments | Linux, VS Code, Jupyter Notebooks |
-| Cloud (Learning) | Microsoft Azure (AI-900, pursuing AI-102) |
+| Cloud (Learning) | Microsoft Azure (AI-900,AI-102) - pursuing |
 | MLOps | Model versioning, pipeline automation |
 
 ---
@@ -128,7 +128,7 @@ Deggendorf Institute of Technology, Germany *(2022 – 2024)*
 
 ## 💼 Work Experience
 
-**Data & Automation Engineer** — *Poly Products WLL, Qatar*  
+**Automation Engineer** — *Poly Products WLL, Qatar*  
 → Built ETL pipelines, automated reporting, managed production and distribution data workflows
 
 **Working Student / AI Research Assistant** — *Technology Campus Vilshofen, Germany*  
@@ -150,7 +150,7 @@ Deggendorf Institute of Technology, Germany *(2022 – 2024)*
 
 ## 📫 Let's Connect
 
-I'm open to **junior Data Engineering**, **AI/ML Engineering**, or **XAI Research** roles in Germany.
+I'm open to **Robotics**, **AI/ML Engineering**, or **XAI Research** roles in Germany.
 
 | | |
 |---|---|
