@@ -1,6 +1,6 @@
 # 👋 Hi, I'm ManojKumar MohanKumar
 
-**AI Engineer |Gen AI| XAI Researcher**  
+**AI Engineer | Gen AI | XAI Researcher**  
 📍 Pforzheim, Baden-Württemberg, Germany  
 🎓 M.Sc. Artificial Intelligence for Smart Sensors and Actuators — Deggendorf Institute of Technology  
 
