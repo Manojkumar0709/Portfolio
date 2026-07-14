@@ -1,10 +1,11 @@
 # 👋 Hi, I'm ManojKumar MohanKumar
 
-**AI Engineer | Gen AI | XAI Researcher**  
+**AI Engineer | Gen AI | LLM & RAG Specialist | XAI Researcher**  
 📍 Pforzheim, Baden-Württemberg, Germany  
 🎓 M.Sc. Artificial Intelligence for Smart Sensors and Actuators — Deggendorf Institute of Technology  
+🗣️ English (C1) | German (B2)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manojkumar-mohan-kumar-93996714b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manojkumar-m-93996714b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Manojkumar0709)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:manojmelarcode@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+49%20176%2067377573-green?style=flat&logo=whatsapp)](tel:+4917667377573)
@@ -13,149 +14,172 @@
 
 ## 🧠 About Me
 
-I'm a graduate AI Engineer with hands-on experience in **Explainable AI (XAI)**, **Robotics**, and **Machine Learning**. My Master's thesis focused on evaluating XAI methods (SHAP, LIME, Integrated Gradients, LRP) for unsupervised anomaly detection in sensor data which bridging the gap between black-box ML models and real-world interpretability.
+I'm a graduate AI Engineer with hands-on experience in **Explainable AI (XAI)**, **LLM & RAG pipelines**, and **Machine Learning**. My Master's thesis focused on evaluating XAI methods (SHAP, LIME) for unsupervised anomaly detection in sensor data, bridging the gap between black-box ML models and real-world interpretability.
 
-I'm passionate about building intelligent, trustworthy systems at the intersection of machine learning, cybersecurity, and IoT. Currently seeking junior **Robotics** or **AI/ML Engineering** roles in Germany.
+I'm passionate about building intelligent, trustworthy systems at the intersection of machine learning, LLM tooling, and IoT. Currently seeking **AI/ML Engineering** or **XAI Research** roles in Germany.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔍 Explainable AI for unsupervised Anomaly detection *(Master's Thesis)*
-> Evaluating XAI methods for unsupervised anomaly detection in sensor data
+### 🔍 Explainable AI for Unsupervised Anomaly Detection *(Master's Thesis)*
+> Evaluating XAI methods for unsupervised anomaly detection in sensor data — Technology Campus Vilshofen *(Sep 2025 – Mar 2026)*
 
-- Designed and trained **Autoencoder-based anomaly detection** models in PyTorch.
-- Applied and benchmarked **SHAP, LIME, Integrated Gradients, and LRP** on dataset
-- Quantified explanation fidelity, sparsity and stability across XAI methods and find the best suitable method.
-- **Tech Stack:** Python, PyTorch, TensorFlow, SHAP, LIME, Captum, scikit-learn, Jupyter Notebooks,
-
----
-
-### 📦 Real-Time Object Detection System
-> Deep learning-based object detection pipeline for real-time visual recognition
-
-- Implemented **YOLOv8** for real-time multi-class object detection on image and video streams
-- Fine-tuned pretrained models on custom datasets using transfer learning techniques
-- Built an inference pipeline with live camera feed support and bounding box visualization
-- Evaluated model performance using mAP, precision, recall metrics across object classes
-- **Tech Stack:** Python, YOLOv8 (Ultralytics), OpenCV, PyTorch, NumPy, Matplotlib, Raspberry pi
+- Developed modular Python tools and reproducible evaluation pipelines for XAI methods including **SHAP** and **LIME**
+- Built **LLM-assisted workflows** for interpretable presentation of model results, feature attributions, and technical findings
+- Implemented containerised processes for data profiling, data validation, time-series analysis, and regression testing on multivariate datasets
+- Documented and presented analysis results for both technical and interdisciplinary stakeholders
+- **Tech Stack:** Python, PyTorch, TensorFlow, SHAP, LIME, scikit-learn, Docker, Jupyter Notebooks
 
 ---
 
-### 🤖 Autonomous Self-Parking TurtleBot *(ROS2 Robotics Project)*
-> Autonomous robot navigation and parking using ROS2 and sensor fusion
+### 🤖 LLM Evaluation & RAG Observability Tool
+> Automated quality evaluation for RAG pipelines and prompt versioning
 
-- Developed an **autonomous parking system** for TurtleBot3 using ROS2 (Humble) and Python
-- Implemented **LiDAR-based obstacle detection** and slot identification for parking maneuvers
-- Designed a state machine controller handling approach, alignment, and reverse-parking logic
-- Simulated and validated the system in **Gazebo** before deploying on physical hardware
-- **Tech Stack:** Python, ROS2 (Humble), TurtleBot3, LiDAR, Gazebo Simulation, OpenCV, Ubuntu
-
----
-
-### 📊 Sales & Operations Data Pipeline *(Poly Products WLL, Qatar)*
-> End-to-end data automation for production and distribution
-
-- Built and maintained **ETL pipelines** processing sales and operational data
-- Automated reporting workflows, reducing manual effort significantly
-- Integrated data from multiple sources into structured **SQL databases**
-- **Tech Stack:** Python, SQL, PostgreSQL, pandas, automation scripts
+- Built a tool for automated evaluation of **RAG pipelines** and prompt versions against curated reference datasets
+- Compared chunking, retrieval, and prompt strategies to detect regressions in retrieval relevance and answer quality
+- Implemented structured quality metrics and an **LLM-as-a-Judge** workflow for context fidelity, consistency, and answer quality
+- **Tech Stack:** LangChain, ChromaDB, Mistral 7B, Streamlit
 
 ---
 
-### 🌡️ IoT Sensor Data Collection & AI Research *(Technology Campus Vilshofen)*
-> AI-driven analysis on real-world sensor data streams
+### 📦 Real-Time Object Detection & Tracking for Logistics
+> Real-time object detection and tracking system for logistics processes
 
-- Collected and preprocessed **multi-sensor time-series data** from IoT devices
-- Developed ML pipelines for anomaly detection and pattern recognition on edge devices
-- Contributed to AI research projects exploring deployment on resource-constrained hardware
-- **Tech Stack:** Python, C++, scikit-learn, SQLite, Linux, edge computing
+- Developed a real-time **YOLO-based** object detection and tracking system for logistics workflows
+- Implemented a **Flask-based REST API** for event processing, alerting, and integration with external applications
+- Built KPI monitoring to track object throughput, detection events, and process deviations
+- **Tech Stack:** Python, YOLO, Flask, OpenCV, REST APIs
 
 ---
 
-### 🛡️ Anomaly Detection Dashboard *(Personal Project)*
-> Interactive Streamlit app for visualizing ML-based anomaly detection results
+### 🔧 Predictive Maintenance & Classification Pipeline
+> End-to-end ML pipeline for predicting maintenance needs and potential failures
 
-- Built an interactive web interface to visualize model predictions and XAI explanations
-- Integrated SHAP waterfall and force plots for per-sample explainability
-- **Tech Stack:** Python, Streamlit, SHAP, XGBoost, pandas, Plotly
+- Developed an end-to-end **machine learning pipeline** for predicting maintenance requirements and potential failures
+- Performed EDA, data cleaning, feature engineering, and hyperparameter optimisation using **Optuna**
+- Evaluated models using F1-Score, AUC-ROC, confusion matrix, and Precision-Recall metrics
+- **Tech Stack:** Python, scikit-learn, Pandas, Optuna
+
+---
+
+### 📈 Forecasting & Time Series Analysis
+> Predictive time-series and regression models for key target variables
+
+- Developed predictive time-series and regression models for forecasting based on historical data
+- Compared classical statistical models (**ARIMAX, SARIMAX**) with deep learning approaches in PyTorch
+- Applied **SHAP** to identify key influence factors and provide transparent interpretation of model predictions
+- **Tech Stack:** Python, PyTorch, ARIMAX, SARIMAX, SHAP
+
+---
+
+### 🔵 Clustering & Pattern Recognition in Process Data
+> Unsupervised segmentation and anomaly identification in process data
+
+- Performed unsupervised segmentation of process data using **K-Means, DBSCAN, and Gaussian Mixture Models**
+- Identified process states, anomalies, and recurring patterns from multivariate features
+- Used **PCA and UMAP** for dimensionality reduction and visual interpretation of high-dimensional data
+- **Tech Stack:** Python, scikit-learn, PCA, UMAP
+
+---
+
+### 📊 IoT Sensor Data ETL & AI Research *(Working Student — Technology Campus Vilshofen)*
+> ETL pipelines and AI research on real-world IoT sensor data *(Mar 2025 – Aug 2025)*
+
+- Developed **ETL pipelines** using Python and SQL for cleaning, transforming, and analysing IoT and sensor data
+- Refactored analysis scripts into reusable, containerised components for faster and reproducible experiments
+- Built **Streamlit and Tableau dashboards** to monitor model metrics and visualise technical KPIs
+- **Tech Stack:** Python, SQL, Streamlit, Tableau, Docker
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Machine Learning & AI
+### LLM & AI Tools
+| Area | Tools & Frameworks |
+|---|---|
+| LLM & Gen AI | LangChain, LlamaIndex, LLM Agents, Prompt Engineering, Flowise, Mistral 7B |
+| RAG & Retrieval | ChromaDB, Embeddings, Chunking, Semantic Search, Retrieval Optimisation, LLM-as-a-Judge |
+| Explainable AI | SHAP, LIME, Captum |
+
+### Machine Learning
 | Area | Tools & Frameworks |
 |---|---|
 | Deep Learning | PyTorch, TensorFlow, Keras |
-| Explainable AI | SHAP, LIME, Integrated Gradients, LRP, Captum |
-| Classical ML | scikit-learn, XGBoost |
-| Computer Vision | YOLOv8, OpenCV, Transfer Learning |
+| Classical ML | scikit-learn, XGBoost, Optuna |
+| Computer Vision | YOLO, OpenCV, Transfer Learning |
 | Anomaly Detection | Autoencoders, Isolation Forest, One-Class SVM |
+| Time Series | ARIMAX, SARIMAX, SHAP, PyTorch |
+| Clustering | K-Means, DBSCAN, Gaussian Mixture Models, PCA, UMAP |
 
-### Data Engineering
+### Data Engineering & Software
 | Area | Tools |
 |---|---|
 | Languages | Python, SQL, C++ |
-| Databases | PostgreSQL, SQLite |
+| Databases | PostgreSQL, SQLite, ChromaDB |
 | Data Processing | pandas, NumPy |
-| Visualization | Plotly, Matplotlib, Seaborn, Streamlit |
-
-### Robotics & IoT
-| Area | Tools |
-|---|---|
-| Robotics | ROS2, TurtleBot3, Gazebo Simulation |
-| Sensors | LiDAR, IoT sensor arrays |
-| Edge Computing | Raspberry Pi, Linux embedded systems |
+| Visualisation | Plotly, Matplotlib, Seaborn, Streamlit, Tableau |
+| APIs & Backend | Flask, REST APIs |
 
 ### DevOps & Cloud
 | Area | Tools |
 |---|---|
-| Version Control | Git, GitHub, GitLab |
+| Version Control | Git, GitHub, GitLab CI/CD |
+| Containerisation | Docker |
 | Environments | Linux, VS Code, Jupyter Notebooks |
-| Cloud (Learning) | Microsoft Azure (AI-900,AI-102) - pursuing |
-| MLOps | Model versioning, pipeline automation |
+| Cloud | Microsoft Azure (AI-900 pursuing, AI-102 planned) |
+| MLOps | Modular software development, pipeline automation, reproducible workflows |
 
 ---
 
 ## 🎓 Education
 
 **M.Sc. Artificial Intelligence for Smart Sensors and Actuators**  
-Deggendorf Institute of Technology, Germany *(2022 – 2024)*  
-*Thesis: Evaluation of Explainable AI for Unsupervised Anomaly Detection in Network Intrusion Detection*
+Technische Hochschule Deggendorf, Germany *(2023 – 2026)*  
+*Thesis: Evaluation of Explainable AI for Unsupervised Anomaly Detection*
+
+**B.E. Electrical and Electronics Engineering**  
+Anna University, Chennai, India *(2013 – 2017)*
 
 ---
 
 ## 💼 Work Experience
 
-**Automation Engineer** — *Poly Products WLL, Qatar*  
-→ Built ETL pipelines, automated reporting, managed production and distribution data workflows
+**Master's Thesis — Explainable AI for Anomaly Detection** — *Technology Campus Vilshofen, Germany*  
+*(Sep 2025 – Mar 2026)*  
+→ Modular XAI evaluation pipelines, LLM-assisted interpretation workflows, containerised data analysis
 
-**Working Student / AI Research Assistant** — *Technology Campus Vilshofen, Germany*  
-→ IoT sensor data collection, AI research projects, edge computing experiments
+**Working Student / AI Research** — *Technology Campus Vilshofen, Germany*  
+*(Mar 2025 – Aug 2025)*  
+→ ETL pipelines on IoT/sensor data, Streamlit & Tableau dashboards, containerised ML experiments
 
-**Industrial/Maintenance Engineer** — *Manufacturing Facilities*  
-→ Machine assembly, commissioning, production process analysis
+**Automation Engineer** — *Poly Products W.L.L., Doha, Qatar*  
+*(Aug 2019 – May 2022)*  
+→ Industrial process analysis, automation solutions, machine control configuration, hardware network installation
+
+**Electrical Engineer — Control Panel Design** — *Solwearth Pvt. Ltd., Kochi, India*  
+*(Jun 2017 – Sep 2018)*  
+→ Electrical control and panel layout design, sensor integration, fault diagnostics, maintenance documentation
 
 ---
 
 ## 📜 Certifications & Learning
 
 - 🟦 Microsoft Azure AI Fundamentals (AI-900) — *In Progress*
-- 📘 Advanced SQL & Database Optimization — *Active Learning*
+- 🟦 Microsoft Azure AI Engineer (AI-102) — *Planned*
 - 🤖 LLM Integration with RAG Pipelines — *Active Learning*
-- ☁️ Azure AI Engineer (AI-102) — *Planned*
+- 📘 Advanced SQL & Database Optimisation — *Active Learning*
 
 ---
 
 ## 📫 Let's Connect
 
-I'm open to **Robotics**, **AI/ML Engineering**, or **XAI Research** roles in Germany.
+I'm open to **AI/ML Engineering**, **LLM/RAG Development**, or **XAI Research** roles in Germany.
 
 | | |
 |---|---|
 | 📧 Email | [manojmelarcode@gmail.com](mailto:manojmelarcode@gmail.com) |
-| 💼 LinkedIn | [manojkumar-mohan-kumar-93996714b](https://www.linkedin.com/in/manojkumar-mohan-kumar-93996714b/) |
+| 💼 LinkedIn | [manojkumar-m-93996714b](https://www.linkedin.com/in/manojkumar-m-93996714b/) |
 | 📱 Phone | +49 176 67377573 |
 | 💻 GitHub | [Manojkumar0709](https://github.com/Manojkumar0709) |
 
