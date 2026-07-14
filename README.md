@@ -163,14 +163,6 @@ Anna University, Chennai, India *(2013 – 2017)*
 
 ---
 
-## 📜 Certifications & Learning
-
-- 🟦 Microsoft Azure AI Fundamentals (AI-900) — *In Progress*
-- 🟦 Microsoft Azure AI Engineer (AI-102) — *Planned*
-- 🤖 LLM Integration with RAG Pipelines — *Active Learning*
-- 📘 Advanced SQL & Database Optimisation — *Active Learning*
-
----
 
 ## 📫 Let's Connect
 
