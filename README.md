@@ -24,9 +24,9 @@ I'm passionate about building intelligent, trustworthy systems at the intersecti
 ### 🔍 Explainable AI for unsupervised Anomaly detection *(Master's Thesis)*
 > Evaluating XAI methods for unsupervised anomaly detection in sensor data
 
-- Designed and trained **Autoencoder-based anomaly detection** models in PyTorch and TensorFlow
+- Designed and trained **Autoencoder-based anomaly detection** models in PyTorch.
 - Applied and benchmarked **SHAP, LIME, Integrated Gradients, and LRP** on dataset
-- Quantified explanation fidelity, sparsity and stability across XAI methods for security-critical decisions
+- Quantified explanation fidelity, sparsity and stability across XAI methods and find the best suitable method.
 - **Tech Stack:** Python, PyTorch, TensorFlow, SHAP, LIME, Captum, scikit-learn, Jupyter Notebooks,
 
 ---
