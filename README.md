@@ -153,17 +153,6 @@ Anna University, Chennai, India *(2013 – 2017)*
 *(Mar 2025 – Aug 2025)*  
 → ETL pipelines on IoT/sensor data, Streamlit & Tableau dashboards, containerised ML experiments
 
-**Automation Engineer** — *Poly Products W.L.L., Doha, Qatar*  
-*(Aug 2019 – May 2022)*  
-→ Industrial process analysis, automation solutions, machine control configuration, hardware network installation
-
-**Electrical Engineer — Control Panel Design** — *Solwearth Pvt. Ltd., Kochi, India*  
-*(Jun 2017 – Sep 2018)*  
-→ Electrical control and panel layout design, sensor integration, fault diagnostics, maintenance documentation
-
----
-
-
 ## 📫 Let's Connect
 
 I'm open to **AI/ML Engineering**, **LLM/RAG Development**, or **XAI Research** roles in Germany.
